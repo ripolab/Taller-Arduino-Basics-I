@@ -1,13 +1,3 @@
-#include <Stepper.h>
-
-#include <Ethernet.h>
-#include <Dns.h>
-#include <EthernetServer.h>
-#include <EthernetClient.h>
-#include <Dhcp.h>
-#include <EthernetUdp.h>
-
-
 /*
   #RETO 1. Escaparate Interactivo
 
